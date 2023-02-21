@@ -15,8 +15,8 @@ struct Deck {
     
     static func getDeck() -> [UIImage]{
         
-        var suits: [String] = ["S","C","D","H"]
-        var faceCards: [String] = ["K","Q","J","A"]
+        let suits: [String] = ["S","C","D","H"]
+        let faceCards: [String] = ["K","Q","J","A"]
         
         for num: Int in 2...10 {
             for suit in suits{

@@ -68,8 +68,7 @@
                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <action selector="rulesButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fa0-4B-Y3z"/>
-                                    <segue destination="fE1-AU-q06" kind="presentation" id="HOk-yt-mFi"/>
+                                    <segue destination="fE1-AU-q06" kind="presentation" id="Mx4-Gm-mv2"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -91,7 +90,6 @@
                         <outlet property="cardImageView" destination="RgS-gM-Y58" id="JXq-tz-y2l"/>
                         <outletCollection property="buttons" destination="B4u-d6-cf0" collectionClass="NSMutableArray" id="JYv-eZ-PUf"/>
                         <outletCollection property="buttons" destination="THI-U6-yqq" collectionClass="NSMutableArray" id="SKO-IG-QVH"/>
-                        <outletCollection property="buttons" destination="mac-lj-odk" collectionClass="NSMutableArray" id="MEY-U3-uxG"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
