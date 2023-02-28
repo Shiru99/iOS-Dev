@@ -11,7 +11,7 @@ struct VideoListView: View {
     var videos: [Video] = VideoList.topTen
     var body: some View {
         
-        NavigationView{
+        NavigationView{     // deprecated
             
             List(videos, id: \.id){ video in
                 
@@ -38,16 +38,8 @@ struct VideoListView: View {
                     }
                     
                 })
-                
-                
-                
-                
-            }
-            
-            .navigationTitle("iOS Top 10")
+            }.navigationTitle("iOS Top 10")
         }
-        
-        
         
     }
 }
