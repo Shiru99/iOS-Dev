@@ -16,4 +16,14 @@ iOS Development
 | [![App 4](assets/GIFs/Hello_weather_UI.gif)](https://youtube.com/shorts/UZ8a9pulu-U?feature=share) | [![App 5](assets/GIFs/SwiftUI_List_Navigation_with_data.gif)](https://youtube.com/shorts/Yr86nGRANGs?feature=share) | [![App 6](assets/GIFs/NavigationStack_with_SwiftUI.gif)](https://youtube.com/shorts/izsmQLySPCc?feature=share) |
 | SwiftUI + State Bindings | SwiftUI + List + Navigation  | NavigationStack + NavigationPath |
 
+
+<br>
+
+| App 7 | App 8 | App 9 |
+| -- | -- | -- |
+| [![App 7](assets/GIFs/SwiftUi_Tic_Tac_Toe.gif)](https://youtube.com/shorts/24OTiryiJyU?feature=share) | [![App 8](assets/GIFs/SwiftUi_Tic_Tac_Toe.gif)](https://youtube.com/shorts/24OTiryiJyU?feature=share) | [![App 9](assets/GIFs/SwiftUi_Tic_Tac_Toe.gif)](https://youtube.com/shorts/24OTiryiJyU?feature=share) |
+| SwiftUI Tic-Tac-Toe Game | SwiftUI Tic-Tac-Toe Game | SwiftUI Tic-Tac-Toe Game |
+
+
 ---
+
