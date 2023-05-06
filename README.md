@@ -17,6 +17,10 @@ iOS Development
 | [<img src="assets/GIFs/SwiftUi_Tic_Tac_Toe.gif?raw=true" width="100px" height="216px">](https://youtube.com/shorts/24OTiryiJyU?feature=share) | [<img src="assets/GIFs/SwiftUI_Form.gif?raw=true" width="100px" height="216px">](https://youtube.com/shorts/vWCR29KWmeI?feature=share) | [<img src="assets/GIFs/LoadingView.gif?raw=true" width="100px" height="216px">](https://youtube.com/shorts/rlpuh612FcM?feature=share) |
 | App 7 : SwiftUI Tic-Tac-Toe Game | App 8 : SwiftUI Forms, Toggle, Stepper & Links | App 9 : SwiftUI Loading View |
 |  |  |  |
+| [<img src="assets/GIFs/SwiftUI_redacted.gif?raw=true" width="100px" height="216px">](https://youtube.com/shorts/Npl6ceMdYeY?feature=share) | [<img src="assets/GIFs/SwiftUI_redacted.gif?raw=true" width="100px" height="216px">](https://youtube.com/shorts/Npl6ceMdYeY?feature=share) | [<img src="assets/GIFs/SwiftUI_redacted.gif?raw=true" width="100px" height="216px">](https://youtube.com/shorts/Npl6ceMdYeY?feature=share) |
+| App 10 : SwiftUI Redacted | App 11 : SwiftUI Redacted  | App 12 : SwiftUI Redacted  |
+|  |  |  |
+
 
 
 
